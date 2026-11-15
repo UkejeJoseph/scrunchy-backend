@@ -1,5 +1,3 @@
-> **Maintained by [Joseph Ukeje](https://github.com/UkejeJoseph)**
-
 # Scrunchy Backend - Complete Implementation
 
 **Production-ready NestJS backend for Scrunchy game asset marketplace**
